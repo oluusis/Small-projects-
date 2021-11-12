@@ -1,40 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace MyslímSiČíslo
+namespace WindowsFormsApp2
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Hlavní vstupní bod aplikace.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            Console.WriteLine("Zkus uhádnout na jaké číslo myslím od 1 do 1000!");          
-            Random rnd = new Random();
-
-            
-            int náhodnéČíslo = rnd.Next(1, 1000);
-            Console.WriteLine(náhodnéČíslo);
-            int číslo = Convert.ToInt32(Console.ReadLine());
-
-
-            while (číslo != náhodnéČíslo)
-            {
-                if ( číslo < náhodnéČíslo && číslo <= 1000)
-                {
-                    Console.WriteLine("Číslo je větší než " + číslo);
-                }
-                else if (číslo > náhodnéČíslo && číslo <= 1000)
-                {
-                    Console.WriteLine("Číslo je menší než " + číslo);
-                }
-                else
-                {
-                    Console.WriteLine("Číslo je mezi 1 - 1000");
-                }
-                číslo = Convert.ToInt32(Console.ReadLine());
-
-            }
-            Console.WriteLine("Uhodl jsi číslo!");
-            Console.ReadKey();
-
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }
