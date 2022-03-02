@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP - Hra ubgrated", "OOP - Hra ubgrated\OOP - Hra ubgrated.csproj", "{8A927785-D844-491D-AAC1-3CE447ACB89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A927785-D844-491D-AAC1-3CE447ACB89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A927785-D844-491D-AAC1-3CE447ACB89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A927785-D844-491D-AAC1-3CE447ACB89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A927785-D844-491D-AAC1-3CE447ACB89A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186CB75C-71F3-48AA-AB31-C33182DA08C3}
+	EndGlobalSection
+EndGlobal

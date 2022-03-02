@@ -1,0 +1,14 @@
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.exe
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.deps.json
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.runtimeconfig.json
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.runtimeconfig.dev.json
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.dll
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\bin\Debug\netcoreapp3.1\OOP - Hra ubgrated.pdb
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.csproj.AssemblyReference.cache
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.AssemblyInfoInputs.cache
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.AssemblyInfo.cs
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.csproj.CoreCompileInputs.cache
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.dll
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.pdb
+D:\Csharp projekty\OOP - Hra ubgrated\OOP - Hra ubgrated\obj\Debug\netcoreapp3.1\OOP - Hra ubgrated.genruntimeconfig.cache
