@@ -1,0 +1,42 @@
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.exe
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.deps.json
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.json
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.dev.json
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.dll
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.pdb
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.AssemblyReference.cache
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfoInputs.cache
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfo.cs
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.CoreCompileInputs.cache
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.dll
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.pdb
+C:\Users\hrubanoliver\Desktop\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.genruntimeconfig.cache
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.exe
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.deps.json
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.json
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.dev.json
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.dll
+Y:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.pdb
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.AssemblyReference.cache
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.GeneratedMSBuildEditorConfig.editorconfig
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfoInputs.cache
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfo.cs
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.CoreCompileInputs.cache
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.dll
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.pdb
+Y:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.genruntimeconfig.cache
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.exe
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.deps.json
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.json
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.runtimeconfig.dev.json
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.dll
+X:\2 ročník\ZPR\bankomat\bankomat\bin\Debug\netcoreapp3.1\bankomat.pdb
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.AssemblyReference.cache
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.GeneratedMSBuildEditorConfig.editorconfig
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfoInputs.cache
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.AssemblyInfo.cs
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.csproj.CoreCompileInputs.cache
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.dll
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.pdb
+X:\2 ročník\ZPR\bankomat\bankomat\obj\Debug\netcoreapp3.1\bankomat.genruntimeconfig.cache
