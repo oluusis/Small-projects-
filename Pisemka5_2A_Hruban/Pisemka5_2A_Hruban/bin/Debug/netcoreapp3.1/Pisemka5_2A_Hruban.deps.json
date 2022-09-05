@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pisemka5_2A_Hruban/1.0.0": {
+        "runtime": {
+          "Pisemka5_2A_Hruban.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pisemka5_2A_Hruban/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

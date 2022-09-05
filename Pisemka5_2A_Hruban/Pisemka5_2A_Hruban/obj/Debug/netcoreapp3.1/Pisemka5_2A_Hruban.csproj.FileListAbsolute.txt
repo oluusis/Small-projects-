@@ -1,0 +1,14 @@
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.exe
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.deps.json
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.runtimeconfig.json
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.runtimeconfig.dev.json
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.dll
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\bin\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.pdb
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.csproj.AssemblyReference.cache
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.GeneratedMSBuildEditorConfig.editorconfig
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.AssemblyInfoInputs.cache
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.AssemblyInfo.cs
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.csproj.CoreCompileInputs.cache
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.dll
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.pdb
+X:\2 ročník\ZPR\Pisemka5_2A_Hruban\Pisemka5_2A_Hruban\obj\Debug\netcoreapp3.1\Pisemka5_2A_Hruban.genruntimeconfig.cache
