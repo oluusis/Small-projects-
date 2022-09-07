@@ -1,0 +1,48 @@
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.exe
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.deps.json
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.json
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.dev.json
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.dll
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\ref\DaD.dll
+C:\Users\hrubanoliver\Desktop\DaD\DaD\bin\Debug\net5.0\DaD.pdb
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.csproj.AssemblyReference.cache
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfoInputs.cache
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfo.cs
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.csproj.CoreCompileInputs.cache
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.dll
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\ref\DaD.dll
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.pdb
+C:\Users\hrubanoliver\Desktop\DaD\DaD\obj\Debug\net5.0\DaD.genruntimeconfig.cache
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.exe
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.deps.json
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.json
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.dev.json
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.dll
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\ref\DaD.dll
+Y:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.pdb
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.csproj.AssemblyReference.cache
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.GeneratedMSBuildEditorConfig.editorconfig
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfoInputs.cache
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfo.cs
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.csproj.CoreCompileInputs.cache
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.dll
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\ref\DaD.dll
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.pdb
+Y:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.genruntimeconfig.cache
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.exe
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.deps.json
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.json
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.runtimeconfig.dev.json
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.dll
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\ref\DaD.dll
+X:\2 ročník\ZPR\DaD\DaD\bin\Debug\net5.0\DaD.pdb
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.csproj.AssemblyReference.cache
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.GeneratedMSBuildEditorConfig.editorconfig
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfoInputs.cache
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.AssemblyInfo.cs
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.csproj.CoreCompileInputs.cache
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.dll
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\ref\DaD.dll
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.pdb
+X:\2 ročník\ZPR\DaD\DaD\obj\Debug\net5.0\DaD.genruntimeconfig.cache
