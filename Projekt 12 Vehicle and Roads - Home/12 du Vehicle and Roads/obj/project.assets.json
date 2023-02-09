@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GpsMapLibP3Agr2Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GpsMapLibP3Agr2Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GpsMapLibP3Agr2Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GpsMapLibP3Agr2Library/1.0.0": {
+      "type": "project",
+      "path": "../GpsMapLibP3Agr2Library/GpsMapLibP3Agr2Library.csproj",
+      "msbuildProject": "../GpsMapLibP3Agr2Library/GpsMapLibP3Agr2Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GpsMapLibP3Agr2Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Oliver Hruban\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Oliver Hruban\\Downloads\\Projekt 12 Vehicle and Roads - Home\\12 du Vehicle and Roads\\12 du Vehicle and Roads.csproj",
+      "projectName": "12 du Vehicle and Roads",
+      "projectPath": "C:\\Users\\Oliver Hruban\\Downloads\\Projekt 12 Vehicle and Roads - Home\\12 du Vehicle and Roads\\12 du Vehicle and Roads.csproj",
+      "packagesPath": "C:\\Users\\Oliver Hruban\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oliver Hruban\\Downloads\\Projekt 12 Vehicle and Roads - Home\\12 du Vehicle and Roads\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Oliver Hruban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Oliver Hruban\\Downloads\\Projekt 12 Vehicle and Roads - Home\\GpsMapLibP3Agr2Library\\GpsMapLibP3Agr2Library.csproj": {
+              "projectPath": "C:\\Users\\Oliver Hruban\\Downloads\\Projekt 12 Vehicle and Roads - Home\\GpsMapLibP3Agr2Library\\GpsMapLibP3Agr2Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

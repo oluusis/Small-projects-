@@ -1,0 +1,59 @@
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.AssemblyReference.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfoInputs.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfo.cs
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.exe
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.deps.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.runtimeconfig.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CopyComplete
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\refint\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.genruntimeconfig.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\12 du Vehicle and Roads\obj\Debug\net6.0\ref\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.exe
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.deps.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.runtimeconfig.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CopyComplete
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\refint\12 du Vehicle and Roads.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.genruntimeconfig.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\ref\12 du Vehicle and Roads.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.exe
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.deps.json
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.runtimeconfig.json
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\12 du Vehicle and Roads.pdb
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\bin\Debug\net6.0\GpsMapLibP3Agr2Library.pdb
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.AssemblyReference.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfoInputs.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.AssemblyInfo.cs
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CoreCompileInputs.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.csproj.CopyComplete
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\refint\12 du Vehicle and Roads.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.pdb
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\12 du Vehicle and Roads.genruntimeconfig.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\12 du Vehicle and Roads\obj\Debug\net6.0\ref\12 du Vehicle and Roads.dll

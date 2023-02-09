@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 du Vehicle and Roads", "12 du Vehicle and Roads\12 du Vehicle and Roads.csproj", "{4386009C-1078-47CE-8CF5-E0F33B0AE970}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GpsMapLibP3Agr2Library", "GpsMapLibP3Agr2Library\GpsMapLibP3Agr2Library.csproj", "{075816E3-9F72-4085-B9C0-BDA9F09AF348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4386009C-1078-47CE-8CF5-E0F33B0AE970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4386009C-1078-47CE-8CF5-E0F33B0AE970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4386009C-1078-47CE-8CF5-E0F33B0AE970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4386009C-1078-47CE-8CF5-E0F33B0AE970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075816E3-9F72-4085-B9C0-BDA9F09AF348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075816E3-9F72-4085-B9C0-BDA9F09AF348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075816E3-9F72-4085-B9C0-BDA9F09AF348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075816E3-9F72-4085-B9C0-BDA9F09AF348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC48CEE-F795-4C5F-8230-9FE956CA17FD}
+	EndGlobalSection
+EndGlobal

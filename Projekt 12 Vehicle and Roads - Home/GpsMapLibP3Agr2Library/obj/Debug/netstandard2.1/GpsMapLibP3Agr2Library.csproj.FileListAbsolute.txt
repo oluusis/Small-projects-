@@ -1,0 +1,30 @@
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.deps.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.deps.json
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.AssemblyReference.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfoInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfo.cs
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+C:\Users\Oliver Hruban\Downloads\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.deps.json
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\bin\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.AssemblyReference.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfoInputs.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.AssemblyInfo.cs
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.csproj.CoreCompileInputs.cache
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.dll
+X:\3. ročník\Programování\Projekt 12 Vehicle and Roads - Home\GpsMapLibP3Agr2Library\obj\Debug\netstandard2.1\GpsMapLibP3Agr2Library.pdb

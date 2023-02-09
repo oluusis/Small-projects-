@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12 du Vehicle and Roads/1.0.0": {
+        "dependencies": {
+          "GpsMapLibP3Agr2Library": "1.0.0"
+        },
+        "runtime": {
+          "12 du Vehicle and Roads.dll": {}
+        }
+      },
+      "GpsMapLibP3Agr2Library/1.0.0": {
+        "runtime": {
+          "GpsMapLibP3Agr2Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12 du Vehicle and Roads/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GpsMapLibP3Agr2Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
