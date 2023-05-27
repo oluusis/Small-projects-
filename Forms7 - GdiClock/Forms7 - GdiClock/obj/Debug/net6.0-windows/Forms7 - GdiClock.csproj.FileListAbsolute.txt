@@ -1,0 +1,51 @@
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.exe
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.deps.json
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.runtimeconfig.json
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.dll
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.AssemblyReference.cache
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7___GdiClock.Form1.resources
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.GenerateResource.cache
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfoInputs.cache
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfo.cs
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.CoreCompileInputs.cache
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.dll
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\refint\Forms7 - GdiClock.dll
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.genruntimeconfig.cache
+C:\Users\hrubanoliver\Downloads\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\ref\Forms7 - GdiClock.dll
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.exe
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.deps.json
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.runtimeconfig.json
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.dll
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.AssemblyReference.cache
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7___GdiClock.Form1.resources
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.GenerateResource.cache
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.GeneratedMSBuildEditorConfig.editorconfig
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfoInputs.cache
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfo.cs
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.CoreCompileInputs.cache
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.dll
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\refint\Forms7 - GdiClock.dll
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.genruntimeconfig.cache
+X:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\ref\Forms7 - GdiClock.dll
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.exe
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.deps.json
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.runtimeconfig.json
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.dll
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\bin\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.AssemblyReference.cache
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7___GdiClock.Form1.resources
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.GenerateResource.cache
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.GeneratedMSBuildEditorConfig.editorconfig
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfoInputs.cache
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.AssemblyInfo.cs
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.csproj.CoreCompileInputs.cache
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.dll
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\refint\Forms7 - GdiClock.dll
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.pdb
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\Forms7 - GdiClock.genruntimeconfig.cache
+Z:\3. ročník\Programování\Forms7 - GdiClock\Forms7 - GdiClock\obj\Debug\net6.0-windows\ref\Forms7 - GdiClock.dll

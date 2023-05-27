@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Forms7 - GdiClock/1.0.0": {
+        "runtime": {
+          "Forms7 - GdiClock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forms7 - GdiClock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
